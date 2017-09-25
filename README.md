@@ -2,8 +2,7 @@
 collection of my code for the Udemy 'mongo DB for becoming a full stack Developer' by Stephen Grider
 
 currently on Section 9 lecture 9
-
-having error with 'npm run test'
+i am in the CLI and inside the 'muber' directory when i run the command 'npm run test'
 
 $ node test nodemon
 module.js:471
